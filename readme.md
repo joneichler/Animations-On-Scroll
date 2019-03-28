@@ -1,4 +1,4 @@
-![Adhere](https://www.adherecreative.com/hubfs/adherelogodark.svg "Adhere")
+![Adhere](https://www.adherecreative.com/hubfs/adherelogodark.svg?width=300 "Adhere")
 ## Animations On Scroll
 
 ---
