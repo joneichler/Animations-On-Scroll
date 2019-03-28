@@ -1,5 +1,5 @@
-![HubSpot](https://cdn2.hubspot.net/hubfs/327485/HubSpot%20Wordmark%20-%20Full%20Color.png "HubSpot")
-## Code Gallery
+![Adhere](https://www.adherecreative.com/hubfs/adherelogodark.svg "Adhere")
+## Animations On Scroll
 
 ---
 
